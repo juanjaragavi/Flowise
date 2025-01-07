@@ -4,6 +4,15 @@
 // third-party
 @import 'react-perfect-scrollbar/dist/css/styles.css';
 
+body {
+    &.fullscreen {
+        overflow: hidden;
+    }
+    background-color: '#030620';
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+}
+
 // ==============================|| LIGHT BOX ||============================== //
 .fullscreen .react-images__blanket {
     z-index: 1200;
