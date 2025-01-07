@@ -1,5 +1,5 @@
-import logo from '@/assets/images/flowise_logo.png'
-import logoDark from '@/assets/images/flowise_logo_dark.png'
+import logo from '@/assets/images/logo-header.webp'
+import logoDark from '@/assets/images/logo-header.webp'
 
 import { useSelector } from 'react-redux'
 
