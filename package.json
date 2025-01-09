@@ -2,7 +2,7 @@
     "name": "flowise",
     "version": "2.2.3",
     "private": true,
-    "homepage": "https://flowiseai.com",
+    "homepage": "https://api.talentassisto.com",
     "workspaces": [
         "packages/*",
         "flowise",

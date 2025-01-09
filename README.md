@@ -194,7 +194,7 @@ Deploy Flowise self-hosted in your existing infrastructure, we support various [
 
 ## ☁️ Flowise Cloud
 
-[Get Started with Flowise Cloud](https://flowiseai.com/)
+[Get Started with Flowise Cloud](https://api.talentassisto.com/)
 
 ## 🙋 Support
 

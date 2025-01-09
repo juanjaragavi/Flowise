@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD030 -->
 
-# Flowise - Low-Code LLM apps builder
+# TalentAssisto | API Manager
 
 English | [中文](./README-ZH.md)
 
@@ -95,7 +95,7 @@ pnpm run e2e
 
 ## ☁️ Flowise Cloud
 
-[Get Started with Flowise Cloud](https://flowiseai.com/)
+[Get Started with Flowise Cloud](https://api.talentassisto.com/)
 
 ## 🙋 Support
 
