@@ -15,7 +15,7 @@
   </defs>
   <g fill="none" fill-rule="evenodd">
     <rect x="8" y="8" width="200" height="200" rx="45" ry="45" fill="url(#blue-gradient)" fill-rule="nonzero" filter="url(#shadow)" style="filter: drop-shadow(2px 3px 4px rgba(128, 128, 128, 0.8));" />
-    <g stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="15" transform="translate(42 42)">
+    <g stroke="#fff" strokeLinecap="round" strokeLinejoin="round" strokeWidth="15" transform="translate(42 42)">
       <path d="m132 58c-.991994-7.1686791-3.094482-13.9665431-6.127891-20.2149374-9.6743-19.9276923-28.8172875-34.26655561-51.6037985-37.22124123-26.5813666-3.47510895-52.6608614 9.32644484-66.2683105 32.52890253"/>
       <path d="m0 74c3.9198666 28.335939 25.2597454 51.079666 53.1909971 56.69018 27.9312514 5.610514 56.3393579-7.140402 70.8090029-31.782463"/>
       <path d="m123.5 108c4.69442 0 8.5-3.80558 8.5-8.5 0-4.6944203-3.80558-8.5-8.5-8.5s-8.5 3.8055797-8.5 8.5c0 4.69442 3.80558 8.5 8.5 8.5z"/>
