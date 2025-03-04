@@ -1,5 +1,5 @@
-import logo from '@/assets/images/logo-header.webp'
-import logoDark from '@/assets/images/logo-header.webp'
+import logo from '@/assets/images/Imagotipo-sinfondo-3.png'
+import logoDark from '@/assets/images/Imagotipo-sinfondo-3.png'
 
 import { useSelector } from 'react-redux'
 
